@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Greenland_LRM_Mask.kml</name>
+	<Style id="CYFLRM27-001">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon19.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>644080ff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>CYFLRM27-00</name>
+		<styleUrl>#CYFLRM27-001</styleUrl>
+		<ExtendedData>
+			<Data name="ZoneId">
+				<value>CYFLRM27</value>
+			</Data>
+			<Data name="Description">
+				<value>LRM over Greenland ice sheet</value>
+			</Data>
+			<Data name="StartDate">
+				<value>UTC=0000-00-00T00:00:00</value>
+			</Data>
+			<Data name="StopDate">
+				<value>UTC=9999-99-99T99:99:99</value>
+			</Data>
+			<Data name="EntryOffset">
+				<value>0</value>
+			</Data>
+			<Data name="ExitOffset">
+				<value>0</value>
+			</Data>
+			<Data name="Transition">
+				<value>TO_LRM__</value>
+			</Data>
+			<Data name="Priority">
+				<value>8</value>
+			</Data>
+			<Data name="Pass">
+				<value>any</value>
+			</Data>
+			<Data name="Season">
+				<value>0</value>
+			</Data>
+			<Data name="Surface">
+			</Data>
+			<Data name="Enable">
+				<value>True</value>
+			</Data>
+			<Data name="Add">
+				<value>false</value>
+			</Data>
+			<Data name="Modify">
+				<value>false</value>
+			</Data>
+			<Data name="ModifyTransition">
+				<value>false</value>
+			</Data>
+			<Data name="Delete">
+				<value>false</value>
+			</Data>
+			<Data name="ToRemove">
+				<value>False</value>
+			</Data>
+			<Data name="Send">
+				<value>True</value>
+			</Data>
+		</ExtendedData>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-57.38669999999999,79.9141,0 -51.5198868270916,79.9128115063854,0 -45.7133743662323,79.8085687832003,0 -40.0777685940196,79.6044653826365,0 -34.7047115516635,79.30621156658231,0 -29.6599,78.92140000000001,0 -30.5163650042663,77.8394656519057,0 -31.2347470411721,76.7552058515443,0 -31.8461869227599,75.6691123498432,0 -32.3731603157447,74.58153652195649,0 -32.8322836425582,73.49273525177119,0 -33.2361,72.4029,0 -33.82901853797,71.23602667659109,0 -34.3549,70.0673,0 -36.6354737121972,69.41483599571561,0 -38.7792609335356,68.7342017215346,0 -40.7939870948787,68.0279996216936,0 -42.6876,67.29859999999999,0 -43.5270716712879,66.1944008206805,0 -44.2962794372394,65.08582647096409,0 -45.004,63.9734,0 -46.7820047878222,64.9993955422262,0 -48.7,66.00239999999999,0 -48.5390604309851,67.1719862916721,0 -48.361751595703,68.3411641528555,0 -48.16527167105411,69.50991259892059,0 -47.9461438074398,70.6782036586617,0 -47.7,71.846,0 -49.12520304471979,72.91393751530551,0 -50.7331402417146,73.97048997233451,0 -52.5598601000017,75.01329439989971,0 -54.65050844633261,76.03931499085201,0 -57.0618750225136,77.0446087493397,0 -59.8655,78.024,0 -57.38669999999999,79.9141,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
