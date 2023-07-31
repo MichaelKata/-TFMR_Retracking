@@ -6,21 +6,22 @@ Project is under reconstruction. Currently missing range corrections and offset 
 
 ## Description
 
-Add a brief description of your project here.
+This repository is part of my Synthesis Project that aims to create a retracker which is fed a track file from CryoSat-2 and calculates the ground elevation measured along the track in Greenland. Currently it works on LRM mode, but will be expanded to include SAR mode also.
 
 ## Installation
 
-Provide instructions on how to install or set up the project (if applicable).
+No installation is needed. You only need to download the necessary libraries, as specified in 'libraries.py'.
 
 ## Usage
 
-Explain how to use the project or include examples.
+For usage, refer to 'Code_Documentation.pdf'
 
-## Contributing
+## Special Thanks
 
-Specify guidelines for other developers who want to contribute to the project.
+Special Thanks to my Synthesis professor for contributing and guiding me to finish the project.
 
 ## License
 
-Mention the license under which the project is released.
+This project is licensed under the GNU General Public License v2.0 (GPLv2).
+
 
