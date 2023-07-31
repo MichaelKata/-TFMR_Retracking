@@ -18,10 +18,9 @@ For usage, refer to 'Code_Documentation.pdf'
 
 ## Special Thanks
 
-Special Thanks to my Synthesis professor for contributing and guiding me to finish the project.
+Special Thanks to my Synthesis professor for his significant guidance and contribution to finish the project.
 
 ## License
 
 This project is licensed under the GNU General Public License v2.0 (GPLv2).
-
 
